@@ -1,5 +1,5 @@
 ---
-WiFi Selector
+#WiFi Selector
 I created this little tool to allow easy switching between wireless networks. Usually i prefer dmenu to facilitate the interaction, but if i'm limited to a TTY, then peco works just great. 
 
 ### With peco:
